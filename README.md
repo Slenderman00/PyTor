@@ -1,6 +1,8 @@
 # PyTor 🔥
 PyTor is a simple framework that enables the automatic creation of new Tor sessions.
 PyTor is created with asynchronous opperations in mind.
+
+PyTor supports as many sessions as you have available ports
  
 ## Usage 🤌
 ~~~python 
